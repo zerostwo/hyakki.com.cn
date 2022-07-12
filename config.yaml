@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Hugo XMag"
+title: "科研绘图"
 theme: "hugo-xmag"
 googleAnalytics: ""
 disqusShortname: ""
